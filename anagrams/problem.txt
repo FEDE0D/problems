@@ -1,0 +1,6 @@
+Anagrams
+
+Find the anagrams from a list of strings 
+
+Input : {"tea", "ate", "eat", "apple", "java", "cut", "utc", "vaja"} 
+Output : {"tea", "ate", "eat","java", "vaja", "cut", "utc"}
